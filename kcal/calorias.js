@@ -1,3 +1,9 @@
+/*
+
+
+
+*/
+
 const exercicio = {
 
     txtempo: document.querySelector('#tempo'),
