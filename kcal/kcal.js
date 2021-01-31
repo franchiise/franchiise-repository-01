@@ -26,6 +26,28 @@
     > https://www.tuasaude.com/gasto-calorico-dos-exercicios/
     > https://www.inovenutrition.com.br/aprenda-calcular-o-gasto-calorico/
 
+    --------------------------------- // ---------------------------------
+
+    Through the way of researches, to calculate the consumed
+    calories amount, in this case, per one exercise, there's
+    a rather simple way to denote the approximate amount of 
+    calories losted.
+
+    The calculate method comes from the product between: the 
+    elapsed time; the weight from who's asking for; and the 
+    speed with which moved. The result, with which has told
+    earlier, can't be exact, cause it considers several fac-
+    tors as heigth, gender, body type, etc.
+    
+    Now to make a way to multiplying the elements of the object,
+    whose's now an array, is created a loop, which will multiply
+    each single value shown in the html interface.
+    
+    Sources:
+
+    > https://www.tuasaude.com/gasto-calorico-dos-exercicios/
+    > https://www.inovenutrition.com.br/aprenda-calcular-o-gasto-calorico/
+
 */
 
 const exercicio = {
