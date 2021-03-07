@@ -59,3 +59,37 @@ input[type = 'button'] {
     cursor: pointer;
 
 }
+
+@media (max-width: 550px) {
+
+    #background {
+
+        width: 300px;
+        height: 250px;
+
+    }
+
+    input[type = 'number'] {
+
+        width: 120px;
+
+        top: 138px;
+        left: 175px;
+
+    }
+
+    label {
+
+        top: 250px;
+        left: 53px;
+
+    }
+
+    input[type = 'button'] {
+
+        top: 150px;
+        left: 145px;
+
+    }
+  
+}
