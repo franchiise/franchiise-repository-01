@@ -21,11 +21,6 @@
     e que agora se tornou um array, cria-se um loop, que multi-
     plicará cada valor apresentado na interface do html.
 
-    Fontes:
-
-    > https://www.tuasaude.com/gasto-calorico-dos-exercicios/
-    > https://www.inovenutrition.com.br/aprenda-calcular-o-gasto-calorico/
-
     --------------------------------- // ---------------------------------
 
     Through the way of researches, to calculate the consumed
@@ -42,11 +37,6 @@
     Now to make a way to multiplying the elements of the object,
     whose's now an array, is created a loop, which will multiply
     each single value shown in the html interface.
-    
-    Sources:
-
-    > https://www.tuasaude.com/gasto-calorico-dos-exercicios/
-    > https://www.inovenutrition.com.br/aprenda-calcular-o-gasto-calorico/
 
 */
 

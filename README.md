@@ -13,3 +13,9 @@ EXEMPLO DE CÁLCULO:
 PESO (70kg) x VELOCIDADE (10km/h) = GASTO (1h x 70kg x 10km/h) ---- RESULTADO (700kcal) 
 
 > Este cálculo proporciona uma estimativa bem aproximada e é muito fácil de ser feito. É claro que podemos calcular o gasto proporcional ao tempo quando a duração do exercício é menor que uma hora.
+
+Fontes: 
+
+https://www.tuasaude.com/gasto-calorico-dos-exercicios/
+
+https://www.inovenutrition.com.br/aprenda-calcular-o-gasto-calorico/
