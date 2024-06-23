@@ -1,6 +1,6 @@
 # Franchiise &#128193; | Calorias Consumidas (kcal)
 
-Link: https://franchiise.github.io/skulito-repository-01/
+Link: https://franchiise.github.io/franchiise-repository-01/
 
 > Uma dúvida frequente diz respeito ao gasto calórico em exercícios nos diferentes aparelhos. Também é comum a dúvida a respeito da influência do exercício ser contínuo ou intervalado. Quando ele é realizado na esteira geralmente o painel já faz um cálculo aproximado do gasto de calorias. 
 
