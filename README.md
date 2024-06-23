@@ -1,4 +1,4 @@
-# Skulito &#128193; | Calorias Consumidas (kcal)
+# Franchiise &#128193; | Calorias Consumidas (kcal)
 
 Link: https://skulito.github.io/skulito-repository-01/
 
